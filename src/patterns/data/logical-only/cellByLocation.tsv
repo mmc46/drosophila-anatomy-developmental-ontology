@@ -8,3 +8,5 @@ FBbt:00059334	adult proventriculus zone 4 epithelial cell	FBbt:00000124	epitheli
 FBbt:00059335	adult proventriculus zone 5 epithelial cell	FBbt:00000124	epithelial cell	FBbt:00059328	adult proventriculus epithelial zone 5
 FBbt:00059336	adult proventriculus zone 5.5 epithelial cell	FBbt:00000124	epithelial cell	FBbt:00059329	adult proventriculus epithelial zone 5.5
 FBbt:00059337	adult proventriculus zone 6 epithelial cell	FBbt:00000124	epithelial cell	FBbt:00059330	adult proventriculus epithelial zone 6
+FBbt:00059356	larval foregut epithelial cell	FBbt:00000124	epithelial cell	FBbt:00001862	embryonic/larval foregut
+FBbt:00059357	larval hindgut epithelial cell	FBbt:00000124	epithelial cell	FBbt:00001891	embryonic/larval hindgut

@@ -72,6 +72,7 @@ FBbt:00018006	proventriculus anlage	FBbt:00005426	anlage	FBbt:00018007	proventri
 FBbt:00018007	proventriculus inclusive primordium	FBbt:00005495	primordium	FBbt:00018009|FBbt:00018008|FBbt:00018010	proventriculus intermediate layer primordium|proventriculus inner layer primordium|embryonic primordium of adult foregut precursor	FBbt:00018006	proventriculus anlage
 FBbt:00018008	proventriculus inner layer primordium	FBbt:00005495	primordium	FBbt:00005608	embryonic proventriculus inner layer	FBbt:00018007	proventriculus inclusive primordium
 FBbt:00018009	proventriculus intermediate layer primordium	FBbt:00005495	primordium	FBbt:00005609	embryonic proventriculus intermediate layer	FBbt:00018007	proventriculus inclusive primordium
+FBbt:00059339	pharyngeal muscle primordium	FBbt:00005495	primordium	FBbt:00000487	pharyngeal muscle cell		
 FBbt:00110628	pars lateralis primordium	FBbt:00005495	primordium	FBbt:00110567	pars lateralis		
 FBbt:00110661	cephalic tracheal branch primordium	FBbt:00005495	primordium	FBbt:00000397	cephalic tracheal branch		
 FBbt:10005326	denticle field anlage	FBbt:00005426	anlage	FBbt:00016011	denticle field primordium	FBbt:00005533	ventral epidermis primordium

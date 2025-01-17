@@ -30,3 +30,19 @@ FBbt:00059319	somatic cell of embryonic/larval midgut primordium	FBbt:00100318	s
 FBbt:00059320	somatic cell of midline primordium	FBbt:00100318	somatic cell	FBbt:00005528	midline primordium
 FBbt:00059321	somatic cell of salivary gland body primordium	FBbt:00100318	somatic cell	FBbt:00005512	salivary gland body primordium
 FBbt:00059322	somatic cell of presumptive embryonic salivary gland	FBbt:00100318	somatic cell	FBbt:00005620	presumptive embryonic salivary gland
+FBbt:00059340	somatic cell of trunk ectoderm	FBbt:00100318	somatic cell	FBbt:00007045	trunk ectoderm
+FBbt:00059341	somatic cell of dorsal ectoderm	FBbt:00100318	somatic cell	FBbt:00000112	dorsal ectoderm
+FBbt:00059342	somatic cell of anterior ectoderm	FBbt:00100318	somatic cell	FBbt:00000119	anterior ectoderm
+FBbt:00059343	somatic cell of caudal mesoderm	FBbt:00100318	somatic cell	FBbt:00059338	caudal mesoderm
+FBbt:00059344	somatic cell of head mesoderm	FBbt:00100318	somatic cell	FBbt:00000127	head mesoderm
+FBbt:00059345	somatic cell of fat body/gonad primordium	FBbt:00100318	somatic cell	FBbt:00005520	fat body/gonad primordium
+FBbt:00059346	somatic cell of circular trunk visceral muscle primordium	FBbt:00100318	somatic cell	FBbt:00017015	circular trunk visceral muscle primordium
+FBbt:00059347	somatic cell of longitudinal trunk visceral muscle primoridum	FBbt:00100318	somatic cell	FBbt:00017008	longitudinal trunk visceral muscle primordium
+FBbt:00059348	somatic cell of hindgut visceral muscle primordium	FBbt:00100318	somatic cell	FBbt:00005499	hindgut visceral muscle primordium
+FBbt:00059349	somatic cell of Malpighian tubule primordium	FBbt:00100318	somatic cell	FBbt:00000442	Malpighian tubule primordium
+FBbt:00059350	somatic cell of posterior midgut primordium	FBbt:00100318	somatic cell	FBbt:10005329	posterior midgut primordium
+FBbt:00059351	somatic cell of dorsal epidermis primordium	FBbt:00100318	somatic cell	FBbt:00005526	dorsal epidermis primordium
+FBbt:00059352	somatic cell of epipharynx primordium	FBbt:00100318	somatic cell	FBbt:00004201	epipharynx primordium
+FBbt:00059353	somatic cell of esophagus primordium	FBbt:00100318	somatic cell	FBbt:00005507	esophagus primordium
+FBbt:00059354	somatic cell of hypopharynx inclusive primordium	FBbt:00100318	somatic cell	FBbt:00005503	hypopharynx inclusive primordium
+FBbt:00059355	somatic cell of pharyngeal muscle primordium	FBbt:00100318	somatic cell	FBbt:00059339	pharyngeal muscle primordium
